@@ -1393,7 +1393,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .w-dropdown-link.w--current {
-  color: #0082f3;
+  color: var(--primary-color);
 }
 
 .w-dropdown-link:focus {
@@ -1832,7 +1832,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .w-nav-link.w--current {
-  color: #0082f3;
+  color: var(--primary-color);
 }
 
 .w-nav-menu {
