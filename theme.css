@@ -2453,6 +2453,10 @@ a {
   .historywrapper {
     flex-wrap: wrap;
   }
+  .hero-title {
+    font-size: 90px;
+    letter-spacing: -3px;
+  }
     
 }
 
