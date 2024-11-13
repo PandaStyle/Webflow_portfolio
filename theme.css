@@ -1842,7 +1842,7 @@ textarea.w-input, textarea.w-select {
 
 [data-nav-menu-open] {
   text-align: center;
-  background: #c8c8c8;
+  background: black;
   min-width: 200px;
   position: absolute;
   top: 100%;
@@ -2449,6 +2449,11 @@ a {
   .menu-button.w--open {
     background-color: #000;
   }
+
+  .historywrapper {
+    flex-wrap: wrap;
+  }
+    
 }
 
 @media screen and (max-width: 479px) {
