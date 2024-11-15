@@ -2433,6 +2433,7 @@ a {
 
 .frame-btn {
   margin-top: 50px;
+  margin-right: 24px;
   line-height: 10px;
   display: inline-block;
   padding: 25px 30px;
@@ -2538,8 +2539,7 @@ a {
 }
 
 .ctas {
-  display: flex;
-  align-items: flex-end;  
+
 }
 
 .frame-btn__text {
